@@ -10,6 +10,26 @@ body{
     height: 35px;
 }
 
+.social-media-icons {
+    background: #c3e7d0;
+}
+
+.social-media-icons i {
+    color: #2e469e;
+    padding: 0.8rem 0.5rem;
+}
+#navbar i {
+    color: #2e469e;
+    padding: 0.8rem 1rem;
+}
+
+.social-media-icons a {
+    text-decoration: none;
+}
+#navbar a, .social-media-icons a:hover {
+    text-decoration: none;
+}
+
 .topNav{
     background-color: #c3e7d0;
 }
